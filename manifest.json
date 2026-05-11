@@ -9,5 +9,6 @@
   },
   "tags": ["project", "workspace", "ui"],
   "scope": "both",
-  "main": "index.cjs"
+  "main": "index.cjs",
+  "iconUrl": "https://raw.githubusercontent.com/ImSakushi/codex-plusplus-add-project-path/main/icon.png"
 }
